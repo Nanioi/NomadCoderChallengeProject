@@ -1,7 +1,8 @@
-
+import 'package:day9practiceproject/widgets/button.dart';
+import 'package:day9practiceproject/widgets/currency_card.dart';
+import 'package:flutter/material.dart';
 
 void main() {
-  // dart 모든 프로그램의 시작점
   runApp(const MyApp());
 }
 
