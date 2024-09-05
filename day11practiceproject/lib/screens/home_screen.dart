@@ -1,6 +1,4 @@
 import 'dart:async';
-
-import 'package:day11practiceproject/core/theme/constant/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
