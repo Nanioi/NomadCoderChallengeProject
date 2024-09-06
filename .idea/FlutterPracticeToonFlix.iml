@@ -6,6 +6,24 @@
       <excludeFolder url="file://$MODULE_DIR$/toonflix/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/toonflix/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/toonflix/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day10practice/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day10practice/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day10practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day11practiceproject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day11practiceproject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day11practiceproject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day11project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day11project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day11project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day12practiceproject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day12practiceproject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day12practiceproject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day9practiceproject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day9practiceproject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day9practiceproject/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day9project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day9project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day9project/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
