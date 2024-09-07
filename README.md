@@ -12,7 +12,7 @@ nomadcoders flutter challenge projects
 <img src = "https://github.com/user-attachments/assets/0ddb8bb0-e933-4694-b122-f6ad09c4ed70" width="200">
 </p>
 
-##### 배운점
+### 배운점
 - Transform 이용 뷰 사이즈 조절, 이동 시키기 
 
 
@@ -37,7 +37,7 @@ nomadcoders flutter challenge projects
 - 한 사이클 끝난 후 5분 휴식
 - 모든 라운드가 끝난 후 Goal +1
 
-##### 배운점
+### 배운점
 - Timer 사용하기 , String format 
 
 ## Day12
@@ -49,11 +49,11 @@ nomadcoders flutter challenge projects
 <img src = "https://github.com/user-attachments/assets/6ebe0043-6f25-4c04-a680-c1304a13d78a" width="200">
 </p>
 
-##### Home
+#### Home
 - 오늘의 웹툰 불러오기
 - Hero 사용해 Detail 화면 이동
 
-##### Detail
+#### Detail
 - 좋아요 기능 (SharedPreferences 이용)
 - 웹툰 에피소드 불러오기
 - 웹툰 에피소드 보러가기
@@ -64,18 +64,18 @@ nomadcoders flutter challenge projects
 <img src = "" width="200">
 </p>
 
-##### Home
+#### Home
 - 가장 인기 있는 영화 목록 표시
 - 극장에서 상영 중인 영화 목록 표시
 - 곧 개봉할 영화 목록 표시
-##### Detail
+#### Detail
 - 영화의 포스터
 - 영화의 제목
 - 영화의 등급
 - 영화의 개요
 - 영화의 장르
 
-##### 배운점
+### 배운점
 - 화면 이동 방법
 - Hero Widget 사용하여 Animation 효과 넣기
 - SharedPreferences 사용방법
