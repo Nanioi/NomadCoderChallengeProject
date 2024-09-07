@@ -60,8 +60,9 @@ nomadcoders flutter challenge projects
 
 ### - Assignment App (무비 앱 만들기)
 <p float="left">
-<img src = "" width="200">
-<img src = "" width="200">
+<img src = "https://github.com/user-attachments/assets/020c6d96-508f-47a7-9791-598aba5d668c" width="200">
+<img src = "https://github.com/user-attachments/assets/cfbd7dcb-7692-4b9f-a3f3-20dbf786f2f3" width="200">
+<img src = "https://github.com/user-attachments/assets/23ee2de7-29e6-4f14-b543-50ed4f7c60b6" width="200">
 </p>
 
 #### Home
@@ -80,3 +81,5 @@ nomadcoders flutter challenge projects
 - Hero Widget 사용하여 Animation 효과 넣기
 - SharedPreferences 사용방법
 - ListView builder , seporate 차이 및 사용법
+- url_launcher 이용 사이트 이동하기
+- json > Model mapping 
