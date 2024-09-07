@@ -12,6 +12,10 @@ nomadcoders flutter challenge projects
 <img src = "https://github.com/user-attachments/assets/0ddb8bb0-e933-4694-b122-f6ad09c4ed70" width="200">
 </p>
 
+##### 배운점
+- Transform 이용 뷰 사이즈 조절, 이동 시키기 
+
+
 ## Day11 
 ### - Practice App (뽀모도로  타이머 앱 만들기)
 <p float="left">
@@ -31,7 +35,10 @@ nomadcoders flutter challenge projects
 - (15,20,25,30,35)분 선택하여 타이머 셋팅하기
 - 타이머 리셋, 일시정지, 재시작 기능
 - 한 사이클 끝난 후 5분 휴식
-- 모든 라운드가 끝난 후 Goal +1 
+- 모든 라운드가 끝난 후 Goal +1
+
+##### 배운점
+- Timer 사용하기 , String format 
 
 ## Day12
 ### - Practice App (오늘의 웹툰 만들기)
@@ -67,3 +74,9 @@ nomadcoders flutter challenge projects
 - 영화의 등급
 - 영화의 개요
 - 영화의 장르
+
+##### 배운점
+- 화면 이동 방법
+- Hero Widget 사용하여 Animation 효과 넣기
+- SharedPreferences 사용방법
+- ListView builder , seporate 차이 및 사용법
