@@ -1,7 +1,7 @@
 import 'package:final_project/models/movie_detail_model.dart';
 import 'package:final_project/models/movie_model.dart';
 import 'package:final_project/services/api_service.dart';
-import 'package:final_project/widgets/rating_widget';
+import 'package:final_project/widgets/rating_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
