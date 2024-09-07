@@ -4,7 +4,8 @@ class RatingWidget extends StatelessWidget {
   final double rating; // 별점 (예: 7.757)
   final int maxRating; // 최대 별점 (5개)
 
-  RatingWidget({
+  const RatingWidget({
+    super.key,
     required this.rating,
     this.maxRating = 5,
   });
