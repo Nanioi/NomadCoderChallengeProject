@@ -25,3 +25,15 @@ nomadcoders flutter challenge projects
 <img src = "https://github.com/user-attachments/assets/1af61f4f-c033-4ee7-9c0f-f2c55e977f6e" width="200">
 </p>
 
+## Day12
+#### - Practice App
+<p float="left">
+<img src = "" width="200">
+<img src = "" width="200">
+</p>
+
+#### - Assignment App
+<p float="left">
+<img src = "" width="200">
+<img src = "" width="200">
+</p>
