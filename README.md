@@ -2,38 +2,68 @@
 nomadcoders flutter challenge projects
 
 ## Day9 
-#### - Practice App
+### - Practice App
 <p float="left">
 <img src = "https://github.com/user-attachments/assets/c558b25c-052b-4310-bed6-9059cfc3595c" width="200">
 </p>
 
-#### - Assignment App
+### - Assignment App
 <p float="left">
 <img src = "https://github.com/user-attachments/assets/0ddb8bb0-e933-4694-b122-f6ad09c4ed70" width="200">
 </p>
 
 ## Day11 
-#### - Practice App
+### - Practice App (뽀모도로  타이머 앱 만들기)
 <p float="left">
 <img src = "https://github.com/user-attachments/assets/2c59394a-3231-43e4-a7d3-285c88292d3e" width="200">
 <img src = "https://github.com/user-attachments/assets/572f97a5-5b02-4b96-9f17-a8d4f779417d" width="200">
 </p>
 
-#### - Assignment App
+- 타이머 일시정지 및 다시 시작 기능 
+- 타이머 종료 시 뽀모도로 카운트 +1
+
+### - Assignment App (뽀모도로 타이머 응용)
 <p float="left">
 <img src = "https://github.com/user-attachments/assets/0fc278bb-7467-4094-b7c1-ebaaad9163ba" width="200">
 <img src = "https://github.com/user-attachments/assets/1af61f4f-c033-4ee7-9c0f-f2c55e977f6e" width="200">
 </p>
 
+- (15,20,25,30,35)분 선택하여 타이머 셋팅하기
+- 타이머 리셋, 일시정지, 재시작 기능
+- 한 사이클 끝난 후 5분 휴식
+- 모든 라운드가 끝난 후 Goal +1 
+
 ## Day12
-#### - Practice App
+### - Practice App (오늘의 웹툰 만들기)
+<p float="left">
+<img src = "https://github.com/user-attachments/assets/d1560033-3c91-44e7-9ed7-36f218506958" width="200">
+<img src = "https://github.com/user-attachments/assets/1d7b4bb7-6582-4b60-96fa-f55fbd9bc17d" width="200">
+<img src = "https://github.com/user-attachments/assets/0f2471fb-feea-42c7-a307-5571b57be78b" width="200">
+<img src = "https://github.com/user-attachments/assets/6ebe0043-6f25-4c04-a680-c1304a13d78a" width="200">
+</p>
+
+##### Home
+- 오늘의 웹툰 불러오기
+- Hero 사용해 Detail 화면 이동
+
+##### Detail
+- 좋아요 기능
+- 웹툰 에피소드 불러오기
+- 웹툰 에피소드 보러가기
+
+### - Assignment App (무비 앱 만들기)
 <p float="left">
 <img src = "" width="200">
 <img src = "" width="200">
 </p>
 
-#### - Assignment App
-<p float="left">
-<img src = "" width="200">
-<img src = "" width="200">
-</p>
+##### Home
+- 가장 인기 있는 영화 목록 표시
+- 극장에서 상영 중인 영화 목록 표시
+- 곧 개봉할 영화 목록 표시
+##### Detail
+- 영화의 포스터
+- 영화의 제목
+- 영화의 등급
+- 영화의 개요
+- 영화의 장르
