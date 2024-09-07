@@ -47,7 +47,7 @@ nomadcoders flutter challenge projects
 - Hero 사용해 Detail 화면 이동
 
 ##### Detail
-- 좋아요 기능
+- 좋아요 기능 (SharedPreferences 이용)
 - 웹툰 에피소드 불러오기
 - 웹툰 에피소드 보러가기
 
