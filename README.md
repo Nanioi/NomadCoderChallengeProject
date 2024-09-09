@@ -1,5 +1,6 @@
 # FlutterChallenge 19기
 nomadcoders flutter challenge projects
+<p style="color: grey;">[2024.08.26 ~ 2024.09.08]</p>
 
 ## Day9 
 ### - Practice App
