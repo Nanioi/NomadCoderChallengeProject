@@ -39,7 +39,8 @@ nomadcoders flutter challenge projects
 - 모든 라운드가 끝난 후 Goal +1
 
 ### 배운점
-- Timer 사용하기 , String format 
+- Timer 사용하기 , String format
+- FadingEdgeScrollView 활용해 ListView 양쪽 Fade 처리하기 
 
 ## Day12
 ### - Practice App (오늘의 웹툰 만들기)
