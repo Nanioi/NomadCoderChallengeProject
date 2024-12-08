@@ -20,7 +20,8 @@ nomadcoders flutter challenge projects
 ## Day11 
 ### - Practice App (뽀모도로  타이머 앱 만들기)
 <p float="left">
-<img src = "https://github.com/user-attachments/assets/a8af494d-d368-46de-96e1-6d44085fd7bd">
+<img src = "https://github.com/user-attachments/assets/0dd64f24-af40-459d-b7ae-0f43285f465d" width="200">
+<img src = "https://github.com/user-attachments/assets/4b255fcf-5d33-4c81-915f-2d0b05f76c95" width="200">
 </p>
 
 - 타이머 일시정지 및 다시 시작 기능 
@@ -28,8 +29,8 @@ nomadcoders flutter challenge projects
 
 ### - Assignment App (뽀모도로 타이머 응용)
 <p float="left">
-<img src = "https://github.com/user-attachments/assets/0fc278bb-7467-4094-b7c1-ebaaad9163ba" width="200">
-<img src = "https://github.com/user-attachments/assets/1af61f4f-c033-4ee7-9c0f-f2c55e977f6e" width="200">
+<img src = "https://github.com/user-attachments/assets/391bb726-94bb-42ff-bcdb-fd0af138d551" width="200">
+<img src = "https://github.com/user-attachments/assets/ebd6cfb3-45be-48e1-bfcd-023e71f3ef8b" width="200">
 </p>
 
 - (15,20,25,30,35)분 선택하여 타이머 셋팅하기
