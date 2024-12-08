@@ -5,12 +5,12 @@ nomadcoders flutter challenge projects
 ## Day9 
 ### - Practice App
 <p float="left">
-<img src = "https://github.com/user-attachments/assets/c558b25c-052b-4310-bed6-9059cfc3595c" width="200">
+<img src = "https://github.com/user-attachments/assets/9e9341e1-d57d-4115-b757-2db29a353342" width="200">
 </p>
 
 ### - Assignment App
 <p float="left">
-<img src = "https://github.com/user-attachments/assets/0ddb8bb0-e933-4694-b122-f6ad09c4ed70" width="200">
+<img src = "https://github.com/user-attachments/assets/b6db4884-bb51-42b1-93e0-3a8f943eed47" width="200">
 </p>
 
 ### 배운점
@@ -20,8 +20,7 @@ nomadcoders flutter challenge projects
 ## Day11 
 ### - Practice App (뽀모도로  타이머 앱 만들기)
 <p float="left">
-<img src = "https://github.com/user-attachments/assets/2c59394a-3231-43e4-a7d3-285c88292d3e" width="200">
-<img src = "https://github.com/user-attachments/assets/572f97a5-5b02-4b96-9f17-a8d4f779417d" width="200">
+<img src = "https://github.com/user-attachments/assets/a8af494d-d368-46de-96e1-6d44085fd7bd">
 </p>
 
 - 타이머 일시정지 및 다시 시작 기능 
